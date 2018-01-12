@@ -1,0 +1,20 @@
+public static void main()
+{
+  // this is the main methood of the class,....
+  init();
+  int x=0;
+  double d = 0.2;
+  f(x,y,x);
+
+  finalize();
+
+
+
+
+
+
+
+
+
+
+}
