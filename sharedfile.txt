@@ -5,16 +5,5 @@ public static void main()
   int x=0;
   double d = 0.2;
   f(x,y,x);
-
   finalize();
-
-
-
-
-
-
-
-
-
-
 }
